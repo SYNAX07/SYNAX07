@@ -30,7 +30,7 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PRADHAN474&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRADHAN474&layout=compact&theme=midnight-purple&hide=Css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=synax10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synax10&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=synax10)￼Enter
