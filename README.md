@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/synax10/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/synax10)
+[<img src="https://telegra.ph/file/a32783a91999e9774054a.jpg"/>](https://github.com/synax10)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
