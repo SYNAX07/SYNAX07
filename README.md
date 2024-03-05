@@ -1,4 +1,4 @@
-<h1> <img  style="align-item" :"center" src="https://telegra.ph/file/a32783a91999e9774054a.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ⚡️𝐒 𝐘 𝐍 𝐀 𝐗⚡️ </h1>
+<h1> <img  style="align-item" :"center" src="https://telegra.ph/file/a32783a91999e9774054a.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Quanta Bots Team </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Quanta09/count.svg" />
