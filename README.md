@@ -1,7 +1,7 @@
 <h3><img  style="align-item" :"center" src="https://mallucampaign.in/images/img_1710319770.jpg" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+Hᴇʏ+ᴛʜᴇʀᴇ+,+ᴛʜɪs+ɪs+Quanta+Bots+Team+🖤+🥀"></b></h3>
 
-                         <b>ᴠɪsɪᴛᴏʀs</b><br>
+   <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/synax10/count.svg" />
 </p>
 
