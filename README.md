@@ -1,4 +1,4 @@
-<h1> <img  style="align-item" :"center" src="https://profile-counter.glitch.me/synax10/count.svg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Quanta Bots Team </h1>
+<h1> <img  style="align-item" :"center" src="https://mallucampaign.in/images/img_1710319770.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Quanta Bots Team </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/synax10/count.svg" />
