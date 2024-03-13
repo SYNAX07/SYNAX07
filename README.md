@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://mallucampaign.in/images/img_1710319770.jpg" />
 </p>
 
-[<img src="https://telegra.ph/file/a32783a91999e9774054a.jpg"/>](https://github.com/Quanta09)
+[<img src="https://mallucampaign.in/images/img_1710319770.jpg"/>](https://github.com/Quanta09)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
