@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Venom Ayush;He/Him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Quanta Owner;He/Him;Student;Indian+Frontend+Dev;PC+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Student, Indian front-end developer, Power Metal lover"></a>
 </div
 
 
