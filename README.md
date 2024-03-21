@@ -3,8 +3,8 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+QUANTA+BOTS+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Quanta09/count.svg" />
-</p>
+![](https://count.getloli.com/get/@quanta09.github.readme)
+</br>
 
 [<img src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg"/>](https://github.com/Quanta09)
 
