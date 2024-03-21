@@ -39,7 +39,7 @@
 
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=quanta09&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYNAX07&theme=chartreuse-dark&hide_border=True&bg_color=000099" width="49%">](https://github.com/SYNAX07)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SYNAX07&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYNAX07&theme=chartreuse-dark&hide_border=True&bg_color=000099" width="49%">](https://github.com/SYNAX07)
 
 
 
@@ -49,8 +49,8 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quanta09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRADHAN474&layout=compact&theme=midnight-purple&hide=Css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SYNAX07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYNAX07&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Quanta09)
 
