@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Quanta Owner;He/Him;Student;Indian+Frontend+Dev;PC+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Student, Indian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+SYNAX;He/Him;Student;Indian+Frontend+Dev;PC+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Student, Indian front-end developer, Power Metal lover"></a>
 </div
 
 
@@ -10,19 +10,19 @@
 
 
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+QUANTA+BOTS+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+SYNAX+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
-![](https://count.getloli.com/get/@quanta09.github.readme)
+![](https://count.getloli.com/get/@SYNAX07.github.readme)
 </br>
 
-[<img src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg"/>](https://github.com/Quanta09)
+[<img src="https://telegra.ph/file/6a7152315ede6b5f92c02.jpg"/>](https://github.com/SYNAX07)
 
 # 🌹 Contribution Graph:
 
 
 <p align="center">
-  <a href="https://github.com/quanta09">
+  <a href="https://github.com/SYNAX07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?usename=quanta09#version3"/>
   </a>
 </p>
@@ -34,12 +34,12 @@
 
 
 
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quanta09&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://quanta09.me)
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quanta09&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://SYNAX07.me)
 
 
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=quanta09&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=quanta09&theme=chartreuse-dark&hide_border=True&bg_color=000099" width="49%">](https://github.com/quanta09)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=quanta09&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYNAX07&theme=chartreuse-dark&hide_border=True&bg_color=000099" width="49%">](https://github.com/SYNAX07)
 
 
 
@@ -87,8 +87,8 @@
 
 ## Connect with Me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Quanta09)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Quantabots)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SYNAX07)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ASHWANI10)
 
 
 <div align="center">
