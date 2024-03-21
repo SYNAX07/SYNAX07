@@ -9,7 +9,7 @@
 
 
 
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg" width="90px" height="80%">
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/6a7152315ede6b5f92c02.jpg" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+SYNAX+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
