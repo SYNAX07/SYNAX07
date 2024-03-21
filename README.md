@@ -1,9 +1,9 @@
 
-<h3><img  style="align-item" :"center" src="https://te.legra.ph/file/7bc5551374ee010ba57d2.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+VIP+OXYGEN+XD+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg" width="90px" height="80%">
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+HEY+THERE+THIS+IS+QUANTA+BOTS+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Quanta09/count.svg" />
 </p>
 
 [<img src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg"/>](https://github.com/Quanta09)
