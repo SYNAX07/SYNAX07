@@ -8,6 +8,20 @@
 
 [<img src="https://telegra.ph/file/bcd66ed03510de125dcbb.jpg"/>](https://github.com/Quanta09)
 
+# 🌹 Contribution Graph:
+
+
+<p align="center">
+  <a href="https://github.com/quanta09">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?usename=quanta09#version3"/>
+  </a>
+</p>
+<a href="https://github.com/quanta09"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=quanta09&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+
 
 
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quanta09&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://quanta09.me)
