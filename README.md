@@ -31,3 +31,16 @@ https://github.com/PRADHAN474/PRADHAN474/blob/b1f4b0d843f5ac3d47ebaa7de3e7dbb455
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Quanta09)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Quantabots)
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/venombolteop/venombolteop/blob/main/assets/footer.png"></div>
+
+
+━━━━━━━━━━━━━━━━━━━━
